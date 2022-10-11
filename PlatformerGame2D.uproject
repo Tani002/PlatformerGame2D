@@ -34,5 +34,8 @@
 			"Name": "AppleImageUtils",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }
